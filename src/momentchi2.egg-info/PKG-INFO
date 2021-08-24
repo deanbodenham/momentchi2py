@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: momentchi2
+Version: 0.0.1
+Summary: A small example package
+Home-page: https://github.com/deanbodenham/momentchi2py
+Author: Dean Bodenham
+Author-email: deanbodenhampkgs@gmail.com
+License: UNKNOWN
+Description: # momentchi2py
+        
+        A Python implementation of three methods for computing the 
+        cumulative distribution function of a weighted sum of chi-squared
+        random variables.
+        
+        Based on the R package momentchi2
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
