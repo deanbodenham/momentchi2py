@@ -1,6 +1,6 @@
 # momentchi2
 
-A Python implementation of three approximate methods for computing the 
+A Python implementation of four approximate methods for computing the 
 cumulative distribution function of a weighted sum of chi-squared
 random variables. All the methods are based on moment-matching techniques.
 
