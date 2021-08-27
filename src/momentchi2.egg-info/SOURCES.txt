@@ -4,7 +4,9 @@ pyproject.toml
 setup.py
 src/momentchi2/__init__.py
 src/momentchi2/methods.py
+src/momentchi2/utilities.py
 src/momentchi2.egg-info/PKG-INFO
 src/momentchi2.egg-info/SOURCES.txt
 src/momentchi2.egg-info/dependency_links.txt
+src/momentchi2.egg-info/requires.txt
 src/momentchi2.egg-info/top_level.txt
