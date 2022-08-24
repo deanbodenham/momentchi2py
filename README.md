@@ -30,7 +30,7 @@ The packages `numpy` and `scipy` are required to be installed.
 
 All four methods (`sw`, `hbe`, `wf` and `lpb4`) are good, 
 but the **Hall-Buckley-Eagleson** method is recommended for situations 
-where the number of coefficients is modertately large 
+where the number of coefficients is moderately large 
 (say, greater than 100). For a smaller number of coefficients (e.g. up to 10), 
 the Lindsay-Pilla-Basak method is recommended.
 See Bodenham and Adams (2016) for a detailed analysis.
@@ -103,7 +103,7 @@ in which case the `hbe` method will be called.
    approximations for a weighted sum of chi-squared random variables. 
    Statistics and Computing, 26(4):917-928, 2016.
 
- 2. D. A. Bodenham (2016). momentChi2: Moment-Matching Methods for Weighted Sums of Chi-Squared 
+ 2. D. A. Bodenham (2016). momentchi2: Moment-Matching Methods for Weighted Sums of Chi-Squared 
    Random Variables, [https://cran.r-project.org/package=momentchi2](https://cran.r-project.org/package=momentchi2)
 
 
@@ -160,4 +160,6 @@ is implemented in the R package `CompQuadForm`.
   10. J. P. Imhof. Computing the distribution of quadratic forms in normal 
       variables. Biometrika 48(3/4): 419-426, 1961.
 
+  11. P. Lafaye de Micheaux (2010). Computes the distribution function of quadratic forms in normal variables using Imhof's method, Davies's algorithm, Farebrother's algorithm or Liu et al.'s algorithm [https://cran.r-project.org/web/packages/CompQuadForm/index.html](https://cran.r-project.org/web/packages/CompQuadForm/index.html)
 
+  12. P. Duchesne and P. Lafaye de Micheaux. Computing the distribution of quadratic forms: Further comparisons between the Liu-Tang-Zhang approximation and exact methods. Computational Statistics and Data Analysis 54(4):858-862, 2010
